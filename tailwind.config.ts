@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				donation: {
+					primary: 'hsl(var(--donation-primary))',
+					secondary: 'hsl(var(--donation-secondary))',
+					accent: 'hsl(var(--donation-accent))',
+					success: 'hsl(var(--donation-success))',
+					trust: 'hsl(var(--donation-trust))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
